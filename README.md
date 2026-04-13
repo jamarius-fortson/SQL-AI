@@ -13,7 +13,7 @@
 
 <br/>
 
-**Daniel SQL AI** is a production-grade, autonomous Data Intelligence Agent designed to bridge the chasm between raw relational databases and executive decision-making. By leveraging the reasoning capabilities of DeepSeek-V3 and the orchestration of LangChain, Daniel transforms natural language into high-fidelity, safe SQL analytics.
+**SQL AI** is a production-grade, autonomous Data Intelligence Agent designed to bridge the chasm between raw relational databases and executive decision-making. By leveraging the reasoning capabilities of DeepSeek-V3 and the orchestration of LangChain, Daniel transforms natural language into high-fidelity, safe SQL analytics.
 
 [**Architecture**](#-architecture-blueprints) • [**Capabilities**](#-core-capabilities) • [**Setup**](#-lightning-deployment) • [**Security**](#-security--safety-protocols)
 
