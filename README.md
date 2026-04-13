@@ -117,7 +117,7 @@ streamlit run app.py
 
 <div align="center">
 
-Built with ❤️ by [Daniel](https://github.com/daniellopez882/)
+Built with ❤️ by Jamarius
 
 **Transforming raw data into mission-critical intelligence.**
 
